@@ -1,0 +1,10 @@
+.page-default {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+}
+.page-default .el-header {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
